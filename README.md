@@ -1,20 +1,42 @@
-# Hi there, I'm Ohemaa! 👋
+# 👋 Hello, I’m Ohemaa Appiatu | Pharmacy Student
 
-## About Me 🚀
+I am a Pharmacy Student and a learner of the ALX Software Engineering Program, aspiring to become a Software Engineer.  
 
-I'm a passionate pharmacy student and backend developer in training . I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+---
 
-- 🌱 Currently learning: Backend
-- 🔭 Working on: new projects
-- 🌍 Languages : python
-- 📫 How to reach me: ohemappiatu@gmail.com
-- ⚡ Fun fact: i love to draw
+## 💡 About Me
+I started my journey in software engineering because I am passionate about solving real-world problems through technology.  
+I am inspired by innovations that make everyday tasks easier and improve access to knowledge and services.  
 
+Vision: *To become a skilled software developer capable of building impactful solutions that bridge technology and healthcare.*  
+My Aim: *To grow as a developer, learn continuously, and contribute to meaningful projects that make a difference.*  
 
+---
 
-## Get in Touch 📬
-- **[LinkedIn]**https://www.linkedin.com/in/christabel-ohemaa-appiatu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+## 🎯 What I’m Currently Learning
+- Programming Languages: Python, JavaScript  
+- Web Development: HTML, CSS, React (frontend basics)  
+- Tools & Platforms: Git, GitHub, VS Code  
 
+---
 
+## 🔭 Projects I’d Like to Work On
+I am interested in working on projects that focus on:  
+- *Web applications that solve everyday problems*  
+- *Healthcare or education-focused software*  
+- *Data-driven tools for decision-making*  
 
-# Ohemaa
+---
+
+## 📫 How to Reach Me
+- Email: ohemappiatu@gmail.com  
+- LinkedIn: [https://linkedin.com/in/ohemaa-appiatu](https://linkedin.com/in/ohemaa-appiatu)  
+
+---
+
+## 📝 Fun Fact
+*I enjoy exploring creative solutions, learning new skills, and sharing knowledge with my peers.*  
+
+---
+
+> ⚡️ *Let’s connect and build amazing software together!*
